@@ -6,6 +6,8 @@
 The Blinkit Power BI Dashboard is designed to provide valuable business insights by analyzing Blinkit data. This dashboard helps organizations better understand their performance, optimize strategies, and gain a competitive edge in the market.
   1. The data was in Excel format with over 8000+ records.
   2. Cleaned the data to get rid of any unwanted data and filter out columns needed to create the dashboard.
+  3. Applied metrics and used DAX to create the dashbord with required information.
+  4. Applied filters accross the dashboard to get the data for a clean analysis.
 
 ![blinkit Dashboard](https://github.com/Boolean-01/BlinkIt_PowerBI_project/blob/main/blinkit_dashboard.png)
 
