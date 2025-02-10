@@ -1,6 +1,6 @@
 # Blinkit Power BI Dashboard
 
-1[](https://in.images.search.yahoo.com/search/images?p=blinkit+image&fr=mcafee&type=E210IN1590G0&imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FB%2Fblinkit-logo-568D32C8EC-seeklogo.com.png#id=2&iurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FB%2Fblinkit-logo-568D32C8EC-seeklogo.com.png&action=click)
+![](https://github.com/Boolean-01/BlinkIt_PowerBI_project/blob/main/blinkit.png)
 
 ##Description
 The Blinkit Power BI Dashboard is designed to provide valuable business insights by analyzing Blinkit data. This dashboard helps organizations better understand their performance, optimize strategies, and gain a competitive edge in the market.
