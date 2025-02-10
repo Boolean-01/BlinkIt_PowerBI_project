@@ -1,4 +1,4 @@
-#Blinkit Power BI Dashboard
+# Blinkit Power BI Dashboard
 
 ##Description
 The Blinkit Power BI Dashboard is designed to provide valuable business insights by analyzing Blinkit data. This dashboard helps organizations better understand their performance, optimize strategies, and gain a competitive edge in the market.
